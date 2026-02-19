@@ -1,6 +1,8 @@
 # 🏥 Hospital Data Analytics – ETL com Python + Power BI
 
 Projeto de tratamento e análise de dados hospitalares utilizando **Python (Pandas)** para ETL e **Power BI** para visualização e construção de indicadores estratégicos.
+<img width="821" height="478" alt="image" src="https://github.com/user-attachments/assets/15fcb466-81b5-4380-ad5f-4b74ccac563d" />
+
 
 ---
 
