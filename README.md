@@ -92,13 +92,12 @@ Criação da coluna:
 
 ```python
 LengthOfStay = (DischargeDate - AdmissionDate).dt.days
-
+```
 ## ▶️  Como Executar o Projeto
 ### 1️⃣  Clonar o repositório
 ```bash
 git clone https://github.com/ThiagoMarques16/VisaoHospitalar
 cd AnaliseDePaciente
-
 ```
 ### 2️⃣ Criar o ambiente virtual
 ```bash
